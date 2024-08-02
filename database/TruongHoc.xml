@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<database>
+    <TruongHoc id="6d3477d8-7ed8-441e-bdf1-6a4aa8291243">
+        <tenTruong>A5</tenTruong>
+        <tinh>A</tinh>
+    </TruongHoc>
+    <TruongHoc id="e75fcc33-605f-4403-8a2e-51530bdc060d">
+        <tenTruong>C2</tenTruong>
+        <tinh>C</tinh>
+    </TruongHoc>
+    <TruongHoc id="6d8a12d9-691d-4844-8c55-28478c0e95fa">
+        <tenTruong>D1</tenTruong>
+        <tinh>D</tinh>
+    </TruongHoc>
+    <TruongHoc id="aadfbfbf-a865-4be7-ac95-7e2c01c1cdea">
+        <tenTruong>E1</tenTruong>
+        <tinh>E</tinh>
+    </TruongHoc>
+    <TruongHoc id="6ed07ae4-6f9a-4a4a-8a16-2209f113b708">
+        <tenTruong>B3</tenTruong>
+        <tinh>B</tinh>
+    </TruongHoc>
+    <TruongHoc id="59fdd4ad-b52e-4e63-bd6d-f4e9de9c1397">
+        <tenTruong>A2</tenTruong>
+        <tinh>A</tinh>
+    </TruongHoc>
+    <TruongHoc id="669d2f8a-f887-4569-8d58-b6814cff72fe">
+        <tenTruong>A1</tenTruong>
+        <tinh>A</tinh>
+    </TruongHoc>
+    <TruongHoc id="ab7f0eae-4855-4d1a-8ade-3f219ab5f590">
+        <tenTruong>C1</tenTruong>
+        <tinh>C</tinh>
+    </TruongHoc>
+    <TruongHoc id="4d651b0d-b440-405b-806c-1a92ee6eccbe">
+        <tenTruong>D3</tenTruong>
+        <tinh>D</tinh>
+    </TruongHoc>
+    <TruongHoc id="9aa6f7bf-79d1-41b3-b2d0-5d530e92886b">
+        <tenTruong>C3</tenTruong>
+        <tinh>C</tinh>
+    </TruongHoc>
+    <TruongHoc id="83663545-92c3-4602-be95-5a156260dfa1">
+        <tenTruong>A4</tenTruong>
+        <tinh>A</tinh>
+    </TruongHoc>
+    <TruongHoc id="42c35c95-8c97-42b5-8bac-60ed3b1b3805">
+        <tenTruong>B1</tenTruong>
+        <tinh>B</tinh>
+    </TruongHoc>
+    <TruongHoc id="8b7955fb-4300-4c14-b1c4-f968915427db">
+        <tenTruong>A3</tenTruong>
+        <tinh>A</tinh>
+    </TruongHoc>
+    <TruongHoc id="6bf82133-3c0c-477a-8e88-318c2574f9af">
+        <tenTruong>C5</tenTruong>
+        <tinh>C</tinh>
+    </TruongHoc>
+    <TruongHoc id="02b76830-4770-4fbf-9ea1-3edadd9525e2">
+        <tenTruong>E2</tenTruong>
+        <tinh>E</tinh>
+    </TruongHoc>
+    <TruongHoc id="7474327d-2016-453d-ae8e-7665470979e4">
+        <tenTruong>C4</tenTruong>
+        <tinh>C</tinh>
+    </TruongHoc>
+    <TruongHoc id="01760008-25e4-4ee1-a5bf-4f1ce59cf31a">
+        <tenTruong>B4</tenTruong>
+        <tinh>B</tinh>
+    </TruongHoc>
+    <TruongHoc id="c97f222b-32d1-4fea-96c1-33993937d5ba">
+        <tenTruong>F4</tenTruong>
+        <tinh>F</tinh>
+    </TruongHoc>
+    <TruongHoc id="d9924190-f759-4bd0-a123-a67e19c06a02">
+        <tenTruong>E3</tenTruong>
+        <tinh>E</tinh>
+    </TruongHoc>
+    <TruongHoc id="c8a5f732-94b9-4b34-b6d5-a9f51007202b">
+        <tenTruong>A6</tenTruong>
+        <tinh>A</tinh>
+    </TruongHoc>
+    <TruongHoc id="4b1d3dd3-f747-4906-8376-de9476336cf8">
+        <tenTruong>D4</tenTruong>
+        <tinh>D</tinh>
+    </TruongHoc>
+    <TruongHoc id="4d302076-17f9-4480-9e64-14ce2f517cea">
+        <tenTruong>D2</tenTruong>
+        <tinh>D</tinh>
+    </TruongHoc>
+    <TruongHoc id="b030475f-10ae-4f86-919c-c66a2351abbb">
+        <tenTruong>B5</tenTruong>
+        <tinh>B</tinh>
+    </TruongHoc>
+    <TruongHoc id="ff7c099d-4061-498f-83b2-1c7c994ab41f">
+        <tenTruong>D5</tenTruong>
+        <tinh>D</tinh>
+    </TruongHoc>
+    <TruongHoc id="542e04d8-8e0e-43bd-8567-7b52be5c4db5">
+        <tenTruong>F2</tenTruong>
+        <tinh>F</tinh>
+    </TruongHoc>
+    <TruongHoc id="a2289b89-161d-4824-a953-1e331748bf79">
+        <tenTruong>B2</tenTruong>
+        <tinh>B</tinh>
+    </TruongHoc>
+    <TruongHoc id="3848099e-83ae-4efc-8c2c-affa07cc0b82">
+        <tenTruong>F3</tenTruong>
+        <tinh>F</tinh>
+    </TruongHoc>
+    <TruongHoc id="d651d874-fefe-4792-9b6c-14222fc87673">
+        <tenTruong>E5</tenTruong>
+        <tinh>E</tinh>
+    </TruongHoc>
+    <TruongHoc id="dba73587-2638-4b5a-9b8b-9a2696f0cffc">
+        <tenTruong>F1</tenTruong>
+        <tinh>F</tinh>
+    </TruongHoc>
+    <TruongHoc id="535d7fd9-1e15-44b5-b61c-cf44c0bb1340">
+        <tenTruong>E4</tenTruong>
+        <tinh>E</tinh>
+    </TruongHoc>
+    <TruongHoc id="1717b85d-c3c5-4238-969b-6b58e1eba3bd">
+        <tenTruong>F5</tenTruong>
+        <tinh>F</tinh>
+    </TruongHoc>
+</database>
